@@ -1,0 +1,14 @@
+{
+  "_org": "hmd",
+  "_repo_type": "docs-",
+  "short_name": "saas",
+  "project_name": "hmd-docs-saas",
+  "repo_name": "hmd-docs-saas",
+  "description": "NeuronSphere SaaS documentation",
+  "_author": "Alex Burgoon",
+  "_author_email": "alex.burgoon@hmdlabs.io",
+  "_template": "/tmp/tmp_zwup1va/hmd_cli_repo",
+  "_output_dir": "/home/aburg/nspublic/projects",
+  "_repo_dir": "/tmp/tmp_zwup1va/hmd_cli_repo",
+  "_checkout": null
+}

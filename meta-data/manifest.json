@@ -1,0 +1,12 @@
+{
+  "name": "hmd-docs-saas",
+  "description": "NeuronSphere SaaS documentation",
+  "build": {},
+  "project_type": {
+    "name": "Documentation",
+    "facets": [
+      "default_repo",
+      "docs_repo"
+    ]
+  }
+}
